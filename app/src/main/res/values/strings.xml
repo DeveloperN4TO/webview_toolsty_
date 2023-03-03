@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toolsty</string>
+    <string name="bem_vindo_text">Welcome</string>
+    <string name="welcome_toolsty">Welcome, toolsty</string>
+</resources>

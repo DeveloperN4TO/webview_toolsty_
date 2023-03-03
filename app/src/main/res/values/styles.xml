@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="textColor" type="color">#aea7c4</item>
+    <style name="snackcolor">#f84315</style>
+
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#211845</item>
+        <item name="colorPrimaryDark">#211845</item>
+        <item name="colorAccent">@color/color_toolsty</item>
+        <item name="android:textColor">#AEA7C4</item>
+    </style>
+
+
+
+
+
+</resources>
